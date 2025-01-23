@@ -1,16 +1,17 @@
+# Forked from [react-native-alert-notification](https://github.com/CodingByJerez/react-native-alert-notification)
 # react-native-alert-notification
 
 ## Example Dialog Box
 
 |                                                                             Theme Light                                                                              |                                                                             Theme Dark                                                                             |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <img src="https://github.com/CodingByJerez/react-native-alert-notification/blob/master/.github/images/dialog-light.gif?raw=true" height="350" alt="Dialogs light" /> | <img src="https://github.com/CodingByJerez/react-native-alert-notification/blob/master/.github/images/dialog-dark.gif?raw=true" height="350" alt="Dialogs Dark" /> |
+| <img src="https://github.com/jafarijason/react-native-alert-notification/blob/master/.github/images/dialog-light.gif?raw=true" height="350" alt="Dialogs light" /> | <img src="https://github.com/jafarijason/react-native-alert-notification/blob/master/.github/images/dialog-dark.gif?raw=true" height="350" alt="Dialogs Dark" /> |
 
 ## Example Toast Notification
 
 |                                                                            Theme Light                                                                             |                                                                            Theme Dark                                                                            |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <img src="https://github.com/CodingByJerez/react-native-alert-notification/blob/master/.github/images/toast-light.gif?raw=true" height="350" alt="toasts light" /> | <img src="https://github.com/CodingByJerez/react-native-alert-notification/blob/master/.github/images/toast-dark.gif?raw=true" height="350" alt="toasts Dark" /> |
+| <img src="https://github.com/jafarijason/react-native-alert-notification/blob/master/.github/images/toast-light.gif?raw=true" height="350" alt="toasts light" /> | <img src="https://github.com/jafarijason/react-native-alert-notification/blob/master/.github/images/toast-dark.gif?raw=true" height="350" alt="toasts Dark" /> |
 
 ## Installation
 

@@ -1,6 +1,6 @@
 {
-  "name": "react-native-alert-notification",
-  "version": "0.4.2",
+  "name": "jj-react-native-alert-notification",
+  "version": "0.4.2-jj-1",
   "license": "MIT",
   "description": "Toast notification and dialog box notification for react native",
   "main": "lib/commonjs/index",
@@ -45,15 +45,15 @@
     "dialog",
     "modal"
   ],
-  "author": "Rodolphe Jerez <contact@codingbyjerez.com> (github.com/codingbyjerez)",
+  "author": "Rodolphe Jerez <contact@codingbyjerez.com> (github.com/codingbyjerez), refactor by Jason Jafari (me@jasonjafari.com)",
   "repository": {
     "type": "git",
-    "url": "https://github.com/CodingByJerez/react-native-alert-notification"
+    "url": "https://github.com/jafarijason/react-native-alert-notification"
   },
   "bugs": {
-    "url": "https://github.com/CodingByJerez/react-native-alert-notification/issues"
+    "url": "https://github.com/jafarijason/react-native-alert-notification/issues"
   },
-  "homepage": "https://github.com/CodingByJerez/react-native-alert-notification#readme",
+  "homepage": "https://github.com/jafarijason/react-native-alert-notification#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
